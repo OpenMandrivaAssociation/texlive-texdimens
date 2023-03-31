@@ -1,6 +1,6 @@
 Name:		texlive-texdimens
 Version:	61070
-Release:	1
+Release:	2
 Summary:	Conversion of TeX dimensions to decimals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texdimens
